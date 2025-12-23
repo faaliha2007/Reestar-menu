@@ -27,7 +27,7 @@ Reestar is a simple and elegant recipe website built using **HTML and CSS**. Thi
 ## View Website
 
 You can view the live website by opening the `index.html` file in your browser, or if hosted on GitHub Pages, access it via:  
-{    }
+🔗 https://faaliha2007.github.io/Reestar-menu/
 
 ---
 
